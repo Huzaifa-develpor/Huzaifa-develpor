@@ -46,7 +46,3 @@ BS Computer Science — FUUAST, Karachi (2024 – 2028)
 - 🌐 Portfolio: [portfolio-five-khaki-64.vercel.app](https://portfolio-five-khaki-64.vercel.app)
 - 💼 LinkedIn: [huzaifa-anwar](https://linkedin.com/in/huzaifa-anwar-59a889334)
 - 📧 Email: huzaifaanwar575@gmail.com
-
-## 📊 GitHub Stats
-
-![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-develpor&show_icons=true&theme=radical)
